@@ -23,13 +23,13 @@
         <mxCell id="4lsJWDNMiE7AItTsOjAv-2" value="注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4lsJWDNMiE7AItTsOjAv-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lsJWDNMiE7AItTsOjAv-16" value="." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="180" width="760" height="580" as="geometry" />
         </mxCell>
         <mxCell id="4lsJWDNMiE7AItTsOjAv-19" value="个人信息模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4lsJWDNMiE7AItTsOjAv-20" value="活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lsJWDNMiE7AItTsOjAv-20" value="活动预约模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4lsJWDNMiE7AItTsOjAv-21" value="系统主页" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -40,6 +40,9 @@
         </mxCell>
         <mxCell id="4lsJWDNMiE7AItTsOjAv-23" value="&lt;p style=&quot;text-align:left;line-height:20.0pt;&lt;br/&gt;mso-line-height-rule:exactly&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:12.0pt;&lt;br/&gt;mso-bidi-font-weight:bold&quot; lang=&quot;EN-US&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-weight:bold&quot;&gt;）为学校管理员、社团组织者、学生提供注册，登录功能，并设置其访问权限。&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;line-height:20.0pt;&lt;br/&gt;mso-line-height-rule:exactly&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12pt; font-family: 宋体;&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12pt;&quot;&gt;）学校管理员：审核和管理社团活动、分配活动场地，管理学生访问信息记录，公告信息管理等。&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;line-height:20.0pt;&lt;br/&gt;mso-line-height-rule:exactly&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12pt; font-family: 宋体;&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12pt;&quot;&gt;）社团组织者：提交社团活动申请、申请活动场地、发布活动信息，审批学生活动申请等。&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;line-height:20.0pt;&lt;br/&gt;mso-line-height-rule:exactly&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center; font-size: 12pt; font-family: 宋体;&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;4&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center; font-size: 12pt; font-family: 宋体;&quot;&gt;）学生：查询修改个人信息，在线报名、申请、取消活动，查询活动报名结果、参与活动记录等。&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-400" y="160" width="280" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="4lsJWDNMiE7AItTsOjAv-24" value="活动预约模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
