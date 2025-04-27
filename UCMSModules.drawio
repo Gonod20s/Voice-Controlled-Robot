@@ -29,7 +29,7 @@
         <mxCell id="4lsJWDNMiE7AItTsOjAv-19" value="个人信息模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4lsJWDNMiE7AItTsOjAv-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4lsJWDNMiE7AItTsOjAv-20" value="活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4lsJWDNMiE7AItTsOjAv-21" value="系统主页" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
