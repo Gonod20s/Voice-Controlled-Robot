@@ -158,26 +158,29 @@
         <mxCell id="0lb3eWw4krtCREUmNuou-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;子模块-&lt;span style=&quot;font-family: Helvetica; text-align: center;&quot;&gt;&lt;font&gt;活动模块&lt;/font&gt;&lt;/span&gt;（最高级用户）&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-563" y="1570" width="353" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0lb3eWw4krtCREUmNuou-22" value="活动报名&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="1761" width="120" height="60" as="geometry" />
+        <mxCell id="0lb3eWw4krtCREUmNuou-30" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="0lb3eWw4krtCREUmNuou-22" target="0lb3eWw4krtCREUmNuou-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0lb3eWw4krtCREUmNuou-23" value="活动信息模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="1831" width="120" height="60" as="geometry" />
+        <mxCell id="0lb3eWw4krtCREUmNuou-22" value="活动报名&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-563" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0lb3eWw4krtCREUmNuou-29" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="0lb3eWw4krtCREUmNuou-24" target="0lb3eWw4krtCREUmNuou-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0lb3eWw4krtCREUmNuou-24" value="（新增）活动申请&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="1641" width="120" height="60" as="geometry" />
+          <mxGeometry x="-563" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0lb3eWw4krtCREUmNuou-25" value="（学生）活动审批&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="1761" width="120" height="60" as="geometry" />
+          <mxGeometry x="-243" y="1660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0lb3eWw4krtCREUmNuou-26" value="（社团）活动审批&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="1694" width="120" height="60" as="geometry" />
+          <mxGeometry x="-563" y="1929" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0lb3eWw4krtCREUmNuou-27" value="（修改）活动申请&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="1641" width="120" height="60" as="geometry" />
+        <mxCell id="0lb3eWw4krtCREUmNuou-27" value="（修改）活动信息&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-403" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0lb3eWw4krtCREUmNuou-28" value="（删除）活动申请&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="1641" width="120" height="60" as="geometry" />
+        <mxCell id="0lb3eWw4krtCREUmNuou-28" value="（删除）活动信息&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-243" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
