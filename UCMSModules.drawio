@@ -1,12 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="第 1 页" id="xV98_gQhv80PoWb9aY1c">
-    <mxGraphModel dx="2331" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="4662" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="umkPjBZnws1FmEN5JdSm-9" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="200" y="175" width="540" height="375" as="geometry" />
+        </mxCell>
+        <mxCell id="umkPjBZnws1FmEN5JdSm-8" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="200" y="227.5" width="330" height="270" as="geometry" />
+        </mxCell>
         <mxCell id="4lsJWDNMiE7AItTsOjAv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4lsJWDNMiE7AItTsOjAv-3" target="4lsJWDNMiE7AItTsOjAv-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint y="270" as="targetPoint" />
+            <mxPoint x="-120" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4lsJWDNMiE7AItTsOjAv-14" value="进入系统" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4lsJWDNMiE7AItTsOjAv-5" vertex="1" connectable="0">
@@ -15,67 +21,91 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4lsJWDNMiE7AItTsOjAv-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="20" width="320" height="100" as="geometry" />
+          <mxGeometry x="-280" y="50" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4lsJWDNMiE7AItTsOjAv-1" value="登陆" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="-260" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4lsJWDNMiE7AItTsOjAv-2" value="注册" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="-100" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4lsJWDNMiE7AItTsOjAv-16" value="." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="190" width="500" height="330" as="geometry" />
+          <mxGeometry x="-370" y="220" width="500" height="330" as="geometry" />
         </mxCell>
         <mxCell id="4lsJWDNMiE7AItTsOjAv-19" value="学生信息模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-220" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="-340" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4lsJWDNMiE7AItTsOjAv-20" value="活动报名&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-220" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="-340" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4lsJWDNMiE7AItTsOjAv-21" value="系统主页" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="190" width="60" height="30" as="geometry" />
+          <mxGeometry x="-350" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4lsJWDNMiE7AItTsOjAv-22" value="登陆模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="20" width="60" height="30" as="geometry" />
+          <mxGeometry x="-280" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4lsJWDNMiE7AItTsOjAv-24" value="活动信息模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-220" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-340" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2t3s7k9Ow33OZpQbPf5Z-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-80.42000000000002" y="440" as="sourcePoint" />
-            <mxPoint x="-80.42000000000002" y="220" as="targetPoint" />
+            <mxPoint x="-200.42000000000002" y="470" as="sourcePoint" />
+            <mxPoint x="-200.42000000000002" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2t3s7k9Ow33OZpQbPf5Z-3" value="社团信息模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="-180" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2t3s7k9Ow33OZpQbPf5Z-4" value="活动申请&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="-180" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2t3s7k9Ow33OZpQbPf5Z-5" value="（学生）活动审批&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-180" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2t3s7k9Ow33OZpQbPf5Z-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="79.57999999999998" y="440" as="sourcePoint" />
-            <mxPoint x="79.57999999999998" y="220" as="targetPoint" />
+            <mxPoint x="-40.420000000000016" y="470" as="sourcePoint" />
+            <mxPoint x="-40.420000000000016" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2t3s7k9Ow33OZpQbPf5Z-7" value="学生+社团信息模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="-20" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2t3s7k9Ow33OZpQbPf5Z-8" value="（社团）活动审批&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="-20" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ofHFmK88YUWarBVrOSfO-2" value="公告信息展示模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-220" y="440" width="440" height="60" as="geometry" />
+          <mxGeometry x="-340" y="470" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ofHFmK88YUWarBVrOSfO-4" value="公告信息管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-20" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="umkPjBZnws1FmEN5JdSm-1" value="&lt;p style=&quot;font-family: Helvetica; text-align: left; line-height: 20pt;&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;（1&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;）为学校管理员、社团组织者、学生提供注册，登录功能，并设置其访问权限。&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-family: Helvetica; text-align: left; line-height: 20pt;&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12pt;&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12pt;&quot;&gt;）学校管理员：审核和管理社团活动、分配活动场地，管理学生访问信息记录，公告信息管理等。&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-family: Helvetica; text-align: left; line-height: 20pt;&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12pt;&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12pt;&quot;&gt;）社团组织者：提交社团活动申请、申请活动场地、发布活动信息，审批学生活动申请等。&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-family: Helvetica; text-align: left; line-height: 20pt;&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center; font-size: 12pt;&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center; font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;4&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center; font-size: 12pt;&quot;&gt;）学生：查询修改个人信息，在线报名、申请、取消活动，查询活动报名结果、参与活动记录等。&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="20" width="457" height="280" as="geometry" />
+          <mxGeometry x="-1284" y="50" width="457" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="umkPjBZnws1FmEN5JdSm-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;总体架构&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="60" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="umkPjBZnws1FmEN5JdSm-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;子模块-学生（普通用户）&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="600" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="umkPjBZnws1FmEN5JdSm-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;子模块-社团组织者（高级用户）&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-563" y="780" width="353" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="umkPjBZnws1FmEN5JdSm-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;子模块-学校管理员（最高级用户）&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="980" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="umkPjBZnws1FmEN5JdSm-7" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="200" y="302.5" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="umkPjBZnws1FmEN5JdSm-10" value="学生" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="250" y="347.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umkPjBZnws1FmEN5JdSm-11" value="社团组织者" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="370" y="347.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umkPjBZnws1FmEN5JdSm-12" value="学校管理员" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="560" y="347.5" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
