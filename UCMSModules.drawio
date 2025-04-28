@@ -144,7 +144,7 @@
           <mxGeometry x="-20" y="1059" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0lb3eWw4krtCREUmNuou-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-563" y="1320" width="363" height="170" as="geometry" />
+          <mxGeometry x="-563" y="1320" width="383" height="170" as="geometry" />
         </mxCell>
         <mxCell id="0lb3eWw4krtCREUmNuou-13" value="学生+社团信息模块" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-560" y="1330" width="180" height="30" as="geometry" />
