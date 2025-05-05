@@ -209,6 +209,9 @@
         <mxCell id="j5MYOWg_yAVmQNnI74KP-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;子模块-登陆&lt;span style=&quot;font-family: Helvetica; text-align: center;&quot;&gt;&lt;font&gt;模块&lt;/font&gt;&lt;/span&gt;（最高级用户）&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-560" y="2030" width="353" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="j5MYOWg_yAVmQNnI74KP-9" value="用户表" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="2130" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
