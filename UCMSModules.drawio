@@ -198,7 +198,7 @@
           <mxGeometry x="-780" y="1054" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-3" value="管理员表" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="1380" width="160" height="80" as="geometry" />
+          <mxGeometry x="-780" y="1600" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-5" value="活动报名表" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-785" y="2280" width="160" height="80" as="geometry" />
@@ -220,6 +220,24 @@
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-12" value="活动表" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-785" y="2410" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j5MYOWg_yAVmQNnI74KP-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-568" y="1555" width="723" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="j5MYOWg_yAVmQNnI74KP-16" value="管理员信息管理模块" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-565" y="1565" width="225" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j5MYOWg_yAVmQNnI74KP-17" value="新增管理员信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-515" y="1615" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="j5MYOWg_yAVmQNnI74KP-18" value="删除管理员信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="1615" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="j5MYOWg_yAVmQNnI74KP-19" value="修改管理员信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1615" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="j5MYOWg_yAVmQNnI74KP-20" value="查询管理员信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="1615" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
