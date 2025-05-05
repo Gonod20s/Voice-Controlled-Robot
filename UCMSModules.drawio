@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0lb3eWw4krtCREUmNuou-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="-578" y="1980" width="473" height="80" as="geometry" />
+          <mxGeometry x="-578" y="1980" width="628" height="80" as="geometry" />
         </mxCell>
         <mxCell id="umkPjBZnws1FmEN5JdSm-9" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="200" y="175" width="540" height="345" as="geometry" />
@@ -277,6 +277,9 @@
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-33" value="进入主页" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-90" y="2340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5MYOWg_yAVmQNnI74KP-35" value="（查询）活动信息&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
