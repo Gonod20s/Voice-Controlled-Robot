@@ -215,6 +215,9 @@
         <mxCell id="j5MYOWg_yAVmQNnI74KP-10" value="登陆模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-570" y="2340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j5MYOWg_yAVmQNnI74KP-30" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="j5MYOWg_yAVmQNnI74KP-11" target="j5MYOWg_yAVmQNnI74KP-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-11" value="注册模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-570" y="2450" width="120" height="60" as="geometry" />
         </mxCell>
@@ -259,6 +262,9 @@
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-27" value="查询公告信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-35" y="2760" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="j5MYOWg_yAVmQNnI74KP-29" value="新增" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="2450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
