@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="j5MYOWg_yAVmQNnI74KP-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-578" y="2290" width="720" height="250" as="geometry" />
+          <mxGeometry x="-630.5" y="3470" width="720" height="250" as="geometry" />
         </mxCell>
         <mxCell id="0lb3eWw4krtCREUmNuou-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="-578" y="1980" width="628" height="80" as="geometry" />
@@ -210,22 +210,22 @@
           <mxGeometry x="-785" y="2110" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;子模块-登陆&lt;span style=&quot;font-family: Helvetica; text-align: center;&quot;&gt;&lt;font&gt;模块&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-565" y="2240" width="353" height="40" as="geometry" />
+          <mxGeometry x="-617.5" y="3420" width="353" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-9" value="用户表" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="2380" width="160" height="80" as="geometry" />
+          <mxGeometry x="-832.5" y="3560" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-32" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="j5MYOWg_yAVmQNnI74KP-10" target="j5MYOWg_yAVmQNnI74KP-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-10" value="登陆模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="2340" width="120" height="60" as="geometry" />
+          <mxGeometry x="-622.5" y="3520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-30" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="j5MYOWg_yAVmQNnI74KP-11" target="j5MYOWg_yAVmQNnI74KP-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-11" value="注册模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="2450" width="120" height="60" as="geometry" />
+          <mxGeometry x="-622.5" y="3630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-12" value="活动表" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-785" y="1990" width="160" height="80" as="geometry" />
@@ -249,31 +249,31 @@
           <mxGeometry x="-25" y="1615" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;子模块-公告&lt;span style=&quot;font-family: Helvetica; text-align: center;&quot;&gt;&lt;font&gt;模块&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-563" y="2630" width="353" height="40" as="geometry" />
+          <mxGeometry x="-615.5" y="3810" width="353" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-578" y="2860" width="723" height="170" as="geometry" />
+          <mxGeometry x="-630.5" y="4040" width="723" height="170" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-23" value="公告信息管理模块（系统管理员）" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-575" y="2870" width="345" height="30" as="geometry" />
+          <mxGeometry x="-627.5" y="4050" width="345" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-24" value="新增公告信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-525" y="2920" width="130" height="70" as="geometry" />
+          <mxGeometry x="-577.5" y="4100" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-25" value="删除公告信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="2920" width="130" height="70" as="geometry" />
+          <mxGeometry x="-412.5" y="4100" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-26" value="修改公告信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="2920" width="130" height="70" as="geometry" />
+          <mxGeometry x="-252.5" y="4100" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-27" value="查询公告信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="2920" width="130" height="70" as="geometry" />
+          <mxGeometry x="-87.5" y="4100" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-39" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="j5MYOWg_yAVmQNnI74KP-29" target="j5MYOWg_yAVmQNnI74KP-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-29" value="新增用户" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="2450" width="120" height="60" as="geometry" />
+          <mxGeometry x="-382.5" y="3630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-34" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="j5MYOWg_yAVmQNnI74KP-31" target="j5MYOWg_yAVmQNnI74KP-33">
           <mxGeometry relative="1" as="geometry" />
@@ -282,22 +282,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-31" value="验证用户" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="2340" width="120" height="60" as="geometry" />
+          <mxGeometry x="-382.5" y="3520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-33" value="进入主页" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="2340" width="120" height="60" as="geometry" />
+          <mxGeometry x="-142.5" y="3520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-35" value="（查询）活动信息&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-38" value="登录模块" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-568" y="2300" width="118" height="30" as="geometry" />
+          <mxGeometry x="-620.5" y="3480" width="118" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="j5MYOWg_yAVmQNnI74KP-40" target="j5MYOWg_yAVmQNnI74KP-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-40" value="公告信息展示模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="2720" width="160" height="80" as="geometry" />
+          <mxGeometry x="-102.5" y="3900" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
