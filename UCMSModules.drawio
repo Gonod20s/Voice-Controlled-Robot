@@ -182,6 +182,9 @@
         <mxCell id="0lb3eWw4krtCREUmNuou-25" value="（学生）活动审批&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-248" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j5MYOWg_yAVmQNnI74KP-43" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="0lb3eWw4krtCREUmNuou-26" target="j5MYOWg_yAVmQNnI74KP-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0lb3eWw4krtCREUmNuou-26" value="（社团）活动审批&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-570" y="2120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -298,6 +301,9 @@
         </mxCell>
         <mxCell id="j5MYOWg_yAVmQNnI74KP-40" value="公告信息展示模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-102.5" y="3900" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j5MYOWg_yAVmQNnI74KP-42" value="活动场地申请" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="2300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
