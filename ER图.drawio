@@ -302,37 +302,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="btKsGY-on5lW7rAerDpI-86" value="&lt;p style=&quot;font-family: Helvetica; text-align: left; line-height: 20pt;&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;（1&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;）为学校管理员、社团组织者、学生提供注册，登录功能，并设置其访问权限。&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-family: Helvetica; text-align: left; line-height: 20pt;&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12pt;&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12pt;&quot;&gt;）学校管理员：审核和管理社团活动、分配活动场地，管理学生访问信息记录，公告信息管理等。&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-family: Helvetica; text-align: left; line-height: 20pt;&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12pt;&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12pt;&quot;&gt;）社团组织者：提交社团活动申请、申请活动场地、发布活动信息，审批学生活动申请等。&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-family: Helvetica; text-align: left; line-height: 20pt;&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center; font-size: 12pt;&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center; font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;4&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center; font-size: 12pt;&quot;&gt;）学生：查询修改个人信息，在线报名、申请、取消活动，查询活动报名结果、参与活动记录等。&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-514.5" y="69" width="457" height="280" as="geometry" />
+          <mxGeometry x="-1168" y="-51" width="457" height="280" as="geometry" />
         </mxCell>
         <mxCell id="btKsGY-on5lW7rAerDpI-87" value="&lt;h1&gt;高校学生社团活动管理系统&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-328" y="405" width="334" height="60" as="geometry" />
+          <mxGeometry x="-651" y="222" width="334" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btKsGY-on5lW7rAerDpI-88" value="&lt;h1&gt;用户登陆&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-982" y="386" width="44" height="290" as="geometry" />
+          <mxGeometry x="-1126" y="384" width="44" height="290" as="geometry" />
         </mxCell>
         <mxCell id="btKsGY-on5lW7rAerDpI-91" value="&lt;h1&gt;用户信息管理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-854" y="391" width="44" height="290" as="geometry" />
+          <mxGeometry x="-554.5" y="428" width="44" height="290" as="geometry" />
         </mxCell>
         <mxCell id="btKsGY-on5lW7rAerDpI-92" value="&lt;h1&gt;社团信息管理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="513" width="44" height="290" as="geometry" />
+          <mxGeometry x="-455.5" y="431" width="44" height="290" as="geometry" />
         </mxCell>
         <mxCell id="btKsGY-on5lW7rAerDpI-93" value="&lt;h1&gt;社团活动管理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="513" width="44" height="290" as="geometry" />
+          <mxGeometry x="-340.5" y="431" width="44" height="290" as="geometry" />
         </mxCell>
         <mxCell id="btKsGY-on5lW7rAerDpI-94" value="&lt;h1&gt;公告管理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="513" width="44" height="290" as="geometry" />
+          <mxGeometry x="-145.5" y="431" width="44" height="290" as="geometry" />
         </mxCell>
         <mxCell id="btKsGY-on5lW7rAerDpI-95" value="&lt;h1&gt;日志管理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="8.5" y="513" width="44" height="290" as="geometry" />
+          <mxGeometry x="-57" y="431" width="44" height="290" as="geometry" />
         </mxCell>
         <mxCell id="btKsGY-on5lW7rAerDpI-96" value="&lt;h1&gt;社团评论管理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-161" y="513" width="44" height="290" as="geometry" />
+          <mxGeometry x="-226.5" y="431" width="44" height="290" as="geometry" />
         </mxCell>
         <mxCell id="btKsGY-on5lW7rAerDpI-97" value="&lt;h1&gt;活动场地管理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="167" y="513" width="44" height="290" as="geometry" />
+          <mxGeometry x="101.5" y="431" width="44" height="290" as="geometry" />
         </mxCell>
         <mxCell id="btKsGY-on5lW7rAerDpI-98" value="权限" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-1017" y="709" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1074" y="384" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
