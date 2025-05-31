@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="27.1.1">
   <diagram name="第 1 页" id="GTOFGIBE3-t7ZsyqFkgm">
-    <mxGraphModel dx="3104" dy="1904" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2713" dy="1914" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -316,10 +316,10 @@
         <mxCell id="btKsGY-on5lW7rAerDpI-88" value="&lt;h1&gt;用户登陆&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="-1237" y="380" width="44" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="btKsGY-on5lW7rAerDpI-91" value="&lt;h1&gt;用户信息管理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+        <mxCell id="btKsGY-on5lW7rAerDpI-91" value="&lt;h1&gt;用户信息管理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-1014" y="383" width="44" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="btKsGY-on5lW7rAerDpI-92" value="&lt;h1&gt;社团信息管理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+        <mxCell id="btKsGY-on5lW7rAerDpI-92" value="&lt;h1&gt;社团信息管理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-894" y="383" width="44" height="290" as="geometry" />
         </mxCell>
         <mxCell id="btKsGY-on5lW7rAerDpI-93" value="&lt;h1&gt;社团活动管理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
@@ -337,19 +337,19 @@
         <mxCell id="btKsGY-on5lW7rAerDpI-97" value="&lt;h1&gt;活动场地管理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="-533" y="383" width="44" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="btKsGY-on5lW7rAerDpI-98" value="&lt;h1&gt;注册&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+        <mxCell id="btKsGY-on5lW7rAerDpI-98" value="&lt;h1&gt;注册&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-1182" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="btKsGY-on5lW7rAerDpI-101" value="&lt;h1&gt;登陆&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+        <mxCell id="btKsGY-on5lW7rAerDpI-101" value="&lt;h1&gt;登陆&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-1182" y="455" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btKsGY-on5lW7rAerDpI-102" value="&lt;h1&gt;权限&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="-1182" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="btKsGY-on5lW7rAerDpI-105" value="&lt;h1&gt;申请&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+        <mxCell id="btKsGY-on5lW7rAerDpI-105" value="&lt;h1&gt;申请&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-749" y="383" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="btKsGY-on5lW7rAerDpI-106" value="&lt;h1&gt;审批&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+        <mxCell id="btKsGY-on5lW7rAerDpI-106" value="&lt;h1&gt;审批&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-749" y="455" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btKsGY-on5lW7rAerDpI-107" value="&lt;h1&gt;报名&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
@@ -370,7 +370,7 @@
         <mxCell id="9q2EPlr4sqv-6z1ZofdY-2" value="表单" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="-506" y="714" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="m6dT4jvuTC2rRvqjz5hP-8" value="&lt;h1&gt;改密码&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+        <mxCell id="m6dT4jvuTC2rRvqjz5hP-8" value="&lt;h1&gt;改密码&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-1180" y="605" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
