@@ -373,6 +373,9 @@
         <mxCell id="m6dT4jvuTC2rRvqjz5hP-8" value="&lt;h1&gt;改密码&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-1180" y="605" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dKxG8-n3S7vR00bSveLO-1" value="&lt;h1&gt;分配&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-475" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
