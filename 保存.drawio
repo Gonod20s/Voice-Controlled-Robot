@@ -4,60 +4,38 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uLvUj2W3mAGPU_qv6HFf-102" value="开始" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389.5" y="401" width="120" height="30" as="geometry" />
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-118" value="开始" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="199.5" y="238" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uLvUj2W3mAGPU_qv6HFf-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLvUj2W3mAGPU_qv6HFf-104" target="uLvUj2W3mAGPU_qv6HFf-108">
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLvUj2W3mAGPU_qv6HFf-120" target="uLvUj2W3mAGPU_qv6HFf-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uLvUj2W3mAGPU_qv6HFf-104" value="填写要申请的&lt;div&gt;活动信息表单&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="471" width="159" height="80" as="geometry" />
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-120" value="选择社团活动申请" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="308" width="159" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uLvUj2W3mAGPU_qv6HFf-105" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1" source="uLvUj2W3mAGPU_qv6HFf-102" target="uLvUj2W3mAGPU_qv6HFf-104">
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-121" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1" source="uLvUj2W3mAGPU_qv6HFf-118" target="uLvUj2W3mAGPU_qv6HFf-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uLvUj2W3mAGPU_qv6HFf-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uLvUj2W3mAGPU_qv6HFf-108" target="uLvUj2W3mAGPU_qv6HFf-111">
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-122" value="结束" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="199.5" y="747" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLvUj2W3mAGPU_qv6HFf-124" target="uLvUj2W3mAGPU_qv6HFf-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uLvUj2W3mAGPU_qv6HFf-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLvUj2W3mAGPU_qv6HFf-108" target="uLvUj2W3mAGPU_qv6HFf-115">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450.25" y="727" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-124" value="审核成功，&lt;div&gt;刷新待审核活动信息列表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="199.5" y="654" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uLvUj2W3mAGPU_qv6HFf-108" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;判断表单信息格式&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;是否正确？&lt;/span&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="371.5" y="609" width="157.5" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="uLvUj2W3mAGPU_qv6HFf-109" value="结束" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390.25" y="931" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uLvUj2W3mAGPU_qv6HFf-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.905;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="uLvUj2W3mAGPU_qv6HFf-111" target="uLvUj2W3mAGPU_qv6HFf-104">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="506.8699999999999" y="621" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="583.5" y="511" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uLvUj2W3mAGPU_qv6HFf-111" value="返回&lt;div&gt;详细格式错误信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="522.5" y="536" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uLvUj2W3mAGPU_qv6HFf-112" value="否" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="529" y="626" width="40" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="uLvUj2W3mAGPU_qv6HFf-113" value="是" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="450.5" y="689" width="40" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="uLvUj2W3mAGPU_qv6HFf-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uLvUj2W3mAGPU_qv6HFf-115" target="uLvUj2W3mAGPU_qv6HFf-117">
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLvUj2W3mAGPU_qv6HFf-126" target="uLvUj2W3mAGPU_qv6HFf-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uLvUj2W3mAGPU_qv6HFf-115" value="设置&lt;div&gt;状态为未审核&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389.5" y="730" width="120" height="60" as="geometry" />
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-126" value="选择审核状态" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="424" width="159" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uLvUj2W3mAGPU_qv6HFf-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLvUj2W3mAGPU_qv6HFf-117" target="uLvUj2W3mAGPU_qv6HFf-109">
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLvUj2W3mAGPU_qv6HFf-128" target="uLvUj2W3mAGPU_qv6HFf-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uLvUj2W3mAGPU_qv6HFf-117" value="新增活动信息，&lt;div&gt;刷新活动信息列表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389.5" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-128" value="填写审核意见" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="536" width="159" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
