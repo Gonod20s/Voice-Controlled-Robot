@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="第 1 页" id="mgjdfwV87sD4iu_dyT5_">
-    <mxGraphModel>
+    <mxGraphModel dx="946" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-93" value="开始" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="206.5" y="286" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLvUj2W3mAGPU_qv6HFf-95" target="uLvUj2W3mAGPU_qv6HFf-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-95" value="选择学院、专业、年级" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="356" width="159" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-96" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1" source="uLvUj2W3mAGPU_qv6HFf-93" target="uLvUj2W3mAGPU_qv6HFf-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-97" value="结束" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="206.5" y="689" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLvUj2W3mAGPU_qv6HFf-99" target="uLvUj2W3mAGPU_qv6HFf-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-99" value="新增专业成功，&lt;div&gt;刷新专业信息列表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="206.5" y="596" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uLvUj2W3mAGPU_qv6HFf-101" target="uLvUj2W3mAGPU_qv6HFf-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uLvUj2W3mAGPU_qv6HFf-101" value="填写班级名称" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="472" width="159" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
