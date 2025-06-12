@@ -422,11 +422,14 @@
         <mxCell id="h2HOim202EjieUB3Oczs-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iQX4BAwCXbjmUn3e2jPd-1" source="h2HOim202EjieUB3Oczs-6" target="iQX4BAwCXbjmUn3e2jPd-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h2HOim202EjieUB3Oczs-6" value="自动设置默认密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iQX4BAwCXbjmUn3e2jPd-1">
+        <mxCell id="h2HOim202EjieUB3Oczs-6" value="新增用户信息成功，&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iQX4BAwCXbjmUn3e2jPd-1">
           <mxGeometry x="260" y="592" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFHlnPZh2PBKwwNBP4AO-0" value="是" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="iQX4BAwCXbjmUn3e2jPd-1">
           <mxGeometry x="321" y="461" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DFHlnPZh2PBKwwNBP4AO-1" value="否" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="iQX4BAwCXbjmUn3e2jPd-1">
+          <mxGeometry x="402" y="405" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
