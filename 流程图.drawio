@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4" pages="10">
   <diagram name="查询用户信息" id="zO5lMgldCZhvQaBWDhTm">
     <mxGraphModel dx="788" dy="506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -622,6 +622,47 @@
         </mxCell>
         <mxCell id="UBPl67I2Rxnn2enCOQGa-10" value="填写班级名称" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="UBPl67I2Rxnn2enCOQGa-1">
           <mxGeometry x="240.5" y="246" width="159" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="审核社团活动" id="1vJyK-X-kyka1zdjFozQ">
+    <mxGraphModel dx="878" dy="393" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="h1xKM3DgahZiNv9cewnH-0" />
+        <mxCell id="h1xKM3DgahZiNv9cewnH-1" parent="h1xKM3DgahZiNv9cewnH-0" />
+        <mxCell id="h1xKM3DgahZiNv9cewnH-2" value="开始" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="h1xKM3DgahZiNv9cewnH-1">
+          <mxGeometry x="260" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h1xKM3DgahZiNv9cewnH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="h1xKM3DgahZiNv9cewnH-1" source="h1xKM3DgahZiNv9cewnH-4" target="h1xKM3DgahZiNv9cewnH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h1xKM3DgahZiNv9cewnH-4" value="选择社团活动申请" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="h1xKM3DgahZiNv9cewnH-1">
+          <mxGeometry x="240.5" y="130" width="159" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h1xKM3DgahZiNv9cewnH-5" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="h1xKM3DgahZiNv9cewnH-1" source="h1xKM3DgahZiNv9cewnH-2" target="h1xKM3DgahZiNv9cewnH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h1xKM3DgahZiNv9cewnH-6" value="结束" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="h1xKM3DgahZiNv9cewnH-1">
+          <mxGeometry x="260" y="569" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h1xKM3DgahZiNv9cewnH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="h1xKM3DgahZiNv9cewnH-1" source="h1xKM3DgahZiNv9cewnH-8" target="h1xKM3DgahZiNv9cewnH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h1xKM3DgahZiNv9cewnH-8" value="审核成功，&lt;div&gt;刷新待审核活动信息列表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h1xKM3DgahZiNv9cewnH-1">
+          <mxGeometry x="260" y="476" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMIkRcAbLWBnMwJoYwgT-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="h1xKM3DgahZiNv9cewnH-1" source="h1xKM3DgahZiNv9cewnH-10" target="eMIkRcAbLWBnMwJoYwgT-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h1xKM3DgahZiNv9cewnH-10" value="选择审核状态" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="h1xKM3DgahZiNv9cewnH-1">
+          <mxGeometry x="240.5" y="246" width="159" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMIkRcAbLWBnMwJoYwgT-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="h1xKM3DgahZiNv9cewnH-1" source="eMIkRcAbLWBnMwJoYwgT-0" target="h1xKM3DgahZiNv9cewnH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMIkRcAbLWBnMwJoYwgT-0" value="填写审核意见" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="h1xKM3DgahZiNv9cewnH-1">
+          <mxGeometry x="240.5" y="358" width="159" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
