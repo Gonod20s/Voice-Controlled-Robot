@@ -511,13 +511,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rDDQka-0u5jvCdBOb04Q-9" value="结束" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="rDDQka-0u5jvCdBOb04Q-1">
-          <mxGeometry x="260" y="684" width="120" height="30" as="geometry" />
+          <mxGeometry x="260" y="463" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rDDQka-0u5jvCdBOb04Q-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rDDQka-0u5jvCdBOb04Q-1" source="rDDQka-0u5jvCdBOb04Q-22" target="rDDQka-0u5jvCdBOb04Q-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rDDQka-0u5jvCdBOb04Q-22" value="新增专业成功，&lt;div&gt;刷新用户信息列表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rDDQka-0u5jvCdBOb04Q-1">
+        <mxCell id="rDDQka-0u5jvCdBOb04Q-22" value="新增专业成功，&lt;div&gt;刷新专业信息列表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rDDQka-0u5jvCdBOb04Q-1">
           <mxGeometry x="260" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ih58ZosRP1LRNqlnaSR5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rDDQka-0u5jvCdBOb04Q-1" source="ih58ZosRP1LRNqlnaSR5-1" target="rDDQka-0u5jvCdBOb04Q-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ih58ZosRP1LRNqlnaSR5-1" value="填写专业名称" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="rDDQka-0u5jvCdBOb04Q-1">
           <mxGeometry x="240.5" y="246" width="159" height="80" as="geometry" />
