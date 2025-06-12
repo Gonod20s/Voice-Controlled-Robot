@@ -205,7 +205,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="修改密码" id="Meh-bq0IPyK3MCXsR9mE">
-    <mxGraphModel dx="1226" dy="672" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="571" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="4Vml-jVjkxAf96VHodCM-0" />
         <mxCell id="4Vml-jVjkxAf96VHodCM-1" parent="4Vml-jVjkxAf96VHodCM-0" />
@@ -232,8 +232,10 @@
             <mxPoint x="316.5" y="325" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Vml-jVjkxAf96VHodCM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4Vml-jVjkxAf96VHodCM-1" source="4Vml-jVjkxAf96VHodCM-12" target="4Vml-jVjkxAf96VHodCM-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4Vml-jVjkxAf96VHodCM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4Vml-jVjkxAf96VHodCM-1" source="4Vml-jVjkxAf96VHodCM-12" target="Xq8Z3eJdLvGg3oaHK79f-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="503" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4Vml-jVjkxAf96VHodCM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="4Vml-jVjkxAf96VHodCM-1" source="4Vml-jVjkxAf96VHodCM-12" target="4Vml-jVjkxAf96VHodCM-23">
           <mxGeometry relative="1" as="geometry" />
@@ -244,14 +246,14 @@
         <mxCell id="4Vml-jVjkxAf96VHodCM-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4Vml-jVjkxAf96VHodCM-1" source="4Vml-jVjkxAf96VHodCM-14" target="4Vml-jVjkxAf96VHodCM-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Vml-jVjkxAf96VHodCM-14" value="注册新用户，&lt;div&gt;返回注册成功&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4Vml-jVjkxAf96VHodCM-1">
-          <mxGeometry x="255" y="505" width="120" height="60" as="geometry" />
+        <mxCell id="4Vml-jVjkxAf96VHodCM-14" value="修改密码成功，&lt;div&gt;跳转到登陆界面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4Vml-jVjkxAf96VHodCM-1">
+          <mxGeometry x="255" y="597" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Vml-jVjkxAf96VHodCM-15" value="是" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="4Vml-jVjkxAf96VHodCM-1">
-          <mxGeometry x="317.5" y="455" width="40" height="26" as="geometry" />
+          <mxGeometry x="316" y="438" width="40" height="26" as="geometry" />
         </mxCell>
         <mxCell id="4Vml-jVjkxAf96VHodCM-20" value="结束" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="4Vml-jVjkxAf96VHodCM-1">
-          <mxGeometry x="255" y="621" width="120" height="30" as="geometry" />
+          <mxGeometry x="255" y="713" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Vml-jVjkxAf96VHodCM-21" value="输入新密码，&lt;div&gt;二次输入新密码&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="4Vml-jVjkxAf96VHodCM-1">
           <mxGeometry x="234" y="250" width="162" height="60" as="geometry" />
@@ -264,6 +266,26 @@
         </mxCell>
         <mxCell id="4Vml-jVjkxAf96VHodCM-24" value="否" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="4Vml-jVjkxAf96VHodCM-1">
           <mxGeometry x="393.75" y="373" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq8Z3eJdLvGg3oaHK79f-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4Vml-jVjkxAf96VHodCM-1" source="Xq8Z3eJdLvGg3oaHK79f-0" target="4Vml-jVjkxAf96VHodCM-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq8Z3eJdLvGg3oaHK79f-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="4Vml-jVjkxAf96VHodCM-1" source="Xq8Z3eJdLvGg3oaHK79f-0" target="Xq8Z3eJdLvGg3oaHK79f-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="132.00002543131518" y="228.83334859212243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xq8Z3eJdLvGg3oaHK79f-0" value="判断原密码是否正确" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="4Vml-jVjkxAf96VHodCM-1">
+          <mxGeometry x="236.25" y="476" width="157.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq8Z3eJdLvGg3oaHK79f-2" value="是" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="4Vml-jVjkxAf96VHodCM-1">
+          <mxGeometry x="316" y="559" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq8Z3eJdLvGg3oaHK79f-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.11;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4Vml-jVjkxAf96VHodCM-1" source="Xq8Z3eJdLvGg3oaHK79f-4" target="4Vml-jVjkxAf96VHodCM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq8Z3eJdLvGg3oaHK79f-4" value="返回旧密码错误" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4Vml-jVjkxAf96VHodCM-1">
+          <mxGeometry x="84" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
