@@ -738,7 +738,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WJislMmen7EPYVyYs7y_-0" value="判断活动是否已结束？" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="J0A1M6TFUZXnPdL6NyZ4-1">
-          <mxGeometry x="242" y="240" width="157.5" height="80" as="geometry" />
+          <mxGeometry x="241.25" y="244" width="157.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WJislMmen7EPYVyYs7y_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="J0A1M6TFUZXnPdL6NyZ4-1" source="WJislMmen7EPYVyYs7y_-0" target="J0A1M6TFUZXnPdL6NyZ4-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="447" y="284" />
+              <mxPoint x="447" y="584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJislMmen7EPYVyYs7y_-5" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="J0A1M6TFUZXnPdL6NyZ4-1">
+          <mxGeometry x="405" y="254" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="WJislMmen7EPYVyYs7y_-6" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="J0A1M6TFUZXnPdL6NyZ4-1">
+          <mxGeometry x="315" y="324" width="30" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
