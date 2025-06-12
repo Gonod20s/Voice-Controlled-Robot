@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4" pages="15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4" pages="16">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="登录">
     <mxGraphModel dx="1389" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -698,6 +698,41 @@
         </mxCell>
         <mxCell id="bI28fIiQ09Fxs3hQfuWr-0" value="点击发布" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="OFRgZFGE42Nt_mIUbJOW-1">
           <mxGeometry x="637" y="43.5" width="149.5" height="63" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="日志自动记录流程图" id="bbC296RKMF5K9T1WOAbX">
+    <mxGraphModel dx="1273" dy="570" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="tYXL68hv0fi4-D43mRAy-0" />
+        <mxCell id="tYXL68hv0fi4-D43mRAy-1" parent="tYXL68hv0fi4-D43mRAy-0" />
+        <mxCell id="tYXL68hv0fi4-D43mRAy-2" value="开始" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="tYXL68hv0fi4-D43mRAy-1">
+          <mxGeometry x="267" y="60.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tYXL68hv0fi4-D43mRAy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tYXL68hv0fi4-D43mRAy-1" source="tYXL68hv0fi4-D43mRAy-4" target="tYXL68hv0fi4-D43mRAy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tYXL68hv0fi4-D43mRAy-4" value="获取操作名称" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="tYXL68hv0fi4-D43mRAy-1">
+          <mxGeometry x="429" y="44" width="150" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="tYXL68hv0fi4-D43mRAy-5" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="tYXL68hv0fi4-D43mRAy-1" source="tYXL68hv0fi4-D43mRAy-2" target="tYXL68hv0fi4-D43mRAy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tYXL68hv0fi4-D43mRAy-6" value="结束" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="tYXL68hv0fi4-D43mRAy-1">
+          <mxGeometry x="989" y="60.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tYXL68hv0fi4-D43mRAy-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="tYXL68hv0fi4-D43mRAy-1" source="tYXL68hv0fi4-D43mRAy-8" target="tYXL68hv0fi4-D43mRAy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tYXL68hv0fi4-D43mRAy-8" value="调用service层save接口，新增日志信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tYXL68hv0fi4-D43mRAy-1">
+          <mxGeometry x="820" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tYXL68hv0fi4-D43mRAy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="tYXL68hv0fi4-D43mRAy-1" source="tYXL68hv0fi4-D43mRAy-10" target="tYXL68hv0fi4-D43mRAy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tYXL68hv0fi4-D43mRAy-10" value="获取用户IP" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="tYXL68hv0fi4-D43mRAy-1">
+          <mxGeometry x="615" y="43.5" width="149.5" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
