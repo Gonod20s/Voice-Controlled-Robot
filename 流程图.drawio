@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="27.1.4" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="27.1.4" pages="5">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="登录">
     <mxGraphModel dx="1389" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -291,7 +291,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="修改个人信息" id="vpta6Am2QkgeVJjqi4LC">
-    <mxGraphModel dx="1577" dy="1012" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="757" dy="486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="-RdLMX7hdvDLlt4LgXD--0" />
         <mxCell id="-RdLMX7hdvDLlt4LgXD--1" parent="-RdLMX7hdvDLlt4LgXD--0" />
@@ -341,6 +341,68 @@
         </mxCell>
         <mxCell id="1pYdkm6Og0ujO1-LcD6Z-1" value="是" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="-RdLMX7hdvDLlt4LgXD--1">
           <mxGeometry x="319" y="246" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q9-vf70iYvfWfuQRIKy-0" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-RdLMX7hdvDLlt4LgXD--1">
+          <mxGeometry x="315" y="383" width="30" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="新增用户" id="XxX0FWIyGfM9bsz0D55-">
+    <mxGraphModel dx="541" dy="347" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="iQX4BAwCXbjmUn3e2jPd-0" />
+        <mxCell id="iQX4BAwCXbjmUn3e2jPd-1" parent="iQX4BAwCXbjmUn3e2jPd-0" />
+        <mxCell id="iQX4BAwCXbjmUn3e2jPd-2" value="开始" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="iQX4BAwCXbjmUn3e2jPd-1">
+          <mxGeometry x="260" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iQX4BAwCXbjmUn3e2jPd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iQX4BAwCXbjmUn3e2jPd-1" source="iQX4BAwCXbjmUn3e2jPd-4" target="iQX4BAwCXbjmUn3e2jPd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQX4BAwCXbjmUn3e2jPd-4" value="填写要新增的&lt;div&gt;用户信息表单&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="iQX4BAwCXbjmUn3e2jPd-1">
+          <mxGeometry x="240.5" y="130" width="159" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iQX4BAwCXbjmUn3e2jPd-5" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="iQX4BAwCXbjmUn3e2jPd-1" source="iQX4BAwCXbjmUn3e2jPd-2" target="iQX4BAwCXbjmUn3e2jPd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQX4BAwCXbjmUn3e2jPd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="iQX4BAwCXbjmUn3e2jPd-1" source="iQX4BAwCXbjmUn3e2jPd-8" target="iQX4BAwCXbjmUn3e2jPd-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQX4BAwCXbjmUn3e2jPd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iQX4BAwCXbjmUn3e2jPd-1" source="iQX4BAwCXbjmUn3e2jPd-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320.7714285714285" y="418" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQX4BAwCXbjmUn3e2jPd-8" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;判断表单信息格式&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;是否正确？&lt;/span&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="iQX4BAwCXbjmUn3e2jPd-1">
+          <mxGeometry x="242" y="268" width="157.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iQX4BAwCXbjmUn3e2jPd-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iQX4BAwCXbjmUn3e2jPd-1" target="iQX4BAwCXbjmUn3e2jPd-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320.7714285714285" y="478" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQX4BAwCXbjmUn3e2jPd-11" value="结束" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="iQX4BAwCXbjmUn3e2jPd-1">
+          <mxGeometry x="260" y="516" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iQX4BAwCXbjmUn3e2jPd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.905;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="iQX4BAwCXbjmUn3e2jPd-1" source="iQX4BAwCXbjmUn3e2jPd-13" target="iQX4BAwCXbjmUn3e2jPd-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="377.3699999999999" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="454" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQX4BAwCXbjmUn3e2jPd-13" value="返回&lt;div&gt;详细格式错误信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iQX4BAwCXbjmUn3e2jPd-1">
+          <mxGeometry x="393" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iQX4BAwCXbjmUn3e2jPd-14" value="否" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="iQX4BAwCXbjmUn3e2jPd-1">
+          <mxGeometry x="399.5" y="285" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iQX4BAwCXbjmUn3e2jPd-15" value="是" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="iQX4BAwCXbjmUn3e2jPd-1">
+          <mxGeometry x="319" y="226" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TLsCk818xWG-sSCKFWpw-0" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;判断表单信息格式&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;是否正确？&lt;/span&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="iQX4BAwCXbjmUn3e2jPd-1">
+          <mxGeometry x="364" y="381" width="157.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
