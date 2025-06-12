@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="27.1.4" pages="6">
-  <diagram name="新增用户 的副本" id="zO5lMgldCZhvQaBWDhTm">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="27.1.4" pages="7">
+  <diagram name="查询用户信息" id="zO5lMgldCZhvQaBWDhTm">
     <mxGraphModel dx="788" dy="506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="a178zMsoAZZl_uSFc6zt-0" />
@@ -489,6 +489,38 @@
         </mxCell>
         <mxCell id="DFHlnPZh2PBKwwNBP4AO-1" value="否" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="iQX4BAwCXbjmUn3e2jPd-1">
           <mxGeometry x="402" y="405" width="40" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="新增专业" id="g9HEX39XAxbrUlT0GuCL">
+    <mxGraphModel dx="946" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="rDDQka-0u5jvCdBOb04Q-0" />
+        <mxCell id="rDDQka-0u5jvCdBOb04Q-1" parent="rDDQka-0u5jvCdBOb04Q-0" />
+        <mxCell id="rDDQka-0u5jvCdBOb04Q-2" value="开始" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="rDDQka-0u5jvCdBOb04Q-1">
+          <mxGeometry x="260" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ih58ZosRP1LRNqlnaSR5-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rDDQka-0u5jvCdBOb04Q-1" source="rDDQka-0u5jvCdBOb04Q-4" target="ih58ZosRP1LRNqlnaSR5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rDDQka-0u5jvCdBOb04Q-4" value="选择学院" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="rDDQka-0u5jvCdBOb04Q-1">
+          <mxGeometry x="240.5" y="130" width="159" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rDDQka-0u5jvCdBOb04Q-5" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="rDDQka-0u5jvCdBOb04Q-1" source="rDDQka-0u5jvCdBOb04Q-2" target="rDDQka-0u5jvCdBOb04Q-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rDDQka-0u5jvCdBOb04Q-9" value="结束" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="rDDQka-0u5jvCdBOb04Q-1">
+          <mxGeometry x="260" y="684" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rDDQka-0u5jvCdBOb04Q-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rDDQka-0u5jvCdBOb04Q-1" source="rDDQka-0u5jvCdBOb04Q-22" target="rDDQka-0u5jvCdBOb04Q-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rDDQka-0u5jvCdBOb04Q-22" value="新增专业成功，&lt;div&gt;刷新用户信息列表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rDDQka-0u5jvCdBOb04Q-1">
+          <mxGeometry x="260" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ih58ZosRP1LRNqlnaSR5-1" value="填写专业名称" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="rDDQka-0u5jvCdBOb04Q-1">
+          <mxGeometry x="240.5" y="246" width="159" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
