@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="27.1.4" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="登录">
-    <mxGraphModel dx="834" dy="457" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1389" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,7 +36,7 @@
         <mxCell id="-ivYxCfAkHlw1e81zMro-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-ivYxCfAkHlw1e81zMro-58" target="-ivYxCfAkHlw1e81zMro-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-ivYxCfAkHlw1e81zMro-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ivYxCfAkHlw1e81zMro-58" target="-ivYxCfAkHlw1e81zMro-71">
+        <mxCell id="ISgvkb-H8eZQgoEjN-1p-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ivYxCfAkHlw1e81zMro-58" target="-ivYxCfAkHlw1e81zMro-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-ivYxCfAkHlw1e81zMro-58" value="判断账号&lt;div&gt;是否存在？&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
@@ -45,10 +45,8 @@
         <mxCell id="-ivYxCfAkHlw1e81zMro-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ivYxCfAkHlw1e81zMro-59" target="-ivYxCfAkHlw1e81zMro-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-ivYxCfAkHlw1e81zMro-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ivYxCfAkHlw1e81zMro-59">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="532" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ISgvkb-H8eZQgoEjN-1p-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ivYxCfAkHlw1e81zMro-59" target="-ivYxCfAkHlw1e81zMro-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-ivYxCfAkHlw1e81zMro-59" value="判断密码&lt;div&gt;是否正确？&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="255.5" y="492" width="129" height="80" as="geometry" />
@@ -88,19 +86,23 @@
           <mxGeometry x="420" y="194" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-ivYxCfAkHlw1e81zMro-71" value="登录失败，&lt;div&gt;返回用户名&lt;span style=&quot;background-color: transparent;&quot;&gt;或&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;密码错误&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="84" y="378" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-ivYxCfAkHlw1e81zMro-74" value="结束" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="712" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-ivYxCfAkHlw1e81zMro-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-ivYxCfAkHlw1e81zMro-71" target="-ivYxCfAkHlw1e81zMro-74">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ISgvkb-H8eZQgoEjN-1p-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.112;entryY=0.428;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-ivYxCfAkHlw1e81zMro-71" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="146" y="164" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ISgvkb-H8eZQgoEjN-1p-12" value="否" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="384.5" y="385" width="40" height="26" as="geometry" />
+        <mxCell id="ISgvkb-H8eZQgoEjN-1p-17" value="否" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="215.5" y="384" width="40" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ISgvkb-H8eZQgoEjN-1p-13" value="否" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="384.5" y="509" width="40" height="26" as="geometry" />
+        <mxCell id="ISgvkb-H8eZQgoEjN-1p-19" value="否" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="212" y="509" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
