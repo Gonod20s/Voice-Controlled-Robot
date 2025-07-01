@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="27.1.6" pages="16">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="登录">
-    <mxGraphModel dx="2605" dy="1428" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="816" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,7 +122,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="注册" id="M8CNBRf8TtUgqmofjct7">
-    <mxGraphModel dx="868" dy="476" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="816" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="NWBJJtm0vcIBe-9MFRib-0" />
         <mxCell id="NWBJJtm0vcIBe-9MFRib-1" parent="NWBJJtm0vcIBe-9MFRib-0" />
